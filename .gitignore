@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 frontend/node_modules
-setup.cfg
 .vscode/settings.json
 backend/db.sqlite3.bak
